@@ -5,7 +5,7 @@ The project explores different classification algorithms, model selection strate
 
 ## 📂 Dataset
 
-- `cancer_train.csv` — Training data (features + label)
+- `cancer_train.csv` - Training data (features + label)
 - `cancer_test.csv` — Test data (for model evaluation)
 - `breast_cancer_description.txt` — Feature explanations
 
