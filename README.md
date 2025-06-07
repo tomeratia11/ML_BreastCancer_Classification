@@ -31,7 +31,3 @@ The notebook includes:
 ## 📝 Results
 
 - All results, experiments, and evaluation metrics are summarized and explained in the notebook, including a clear comparison table for all models and settings.
-
----
-
-Feel free to browse the notebook for step-by-step explanations and results!
