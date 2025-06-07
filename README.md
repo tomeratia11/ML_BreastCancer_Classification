@@ -1,6 +1,6 @@
 # ML_BreastCancer_Classification
 
-A supervised learning project for classifying breast cancer tumors (benign/malignant) using the **Breast Cancer Wisconsin dataset**.  
+A supervised learning assignment for classifying breast cancer tumors (benign/malignant) using the **Breast Cancer Wisconsin dataset**.  
 The project explores different classification algorithms, model selection strategies, and includes bonus work with feature selection and SVM.
 
 ## 📂 Dataset
